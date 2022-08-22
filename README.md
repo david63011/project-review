@@ -1,11 +1,5 @@
-Review your project from Trials
+# FCC Test Suite Template
 
-This project is to learn to how to do code reviews 
-👤 Author1
+**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
 
-GitHub: @david63011 Twitter: @david630
-
-Show your support Give a ⭐️ if you like this project!
-
-Acknowledgments @github vvoo21 for the files
-
+You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
